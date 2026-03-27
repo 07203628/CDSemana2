@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Zapatillas Runner X",
+    "marca": "Nike",
+    "precio": 120.50,
+    "stock": 25,
+    "categorias": ["Calzado", "Running"]
+  },
+  {
+    "nombre": "Balón Oficial Qatar",
+    "marca": "Adidas",
+    "precio": 45.00,
+    "stock": 100,
+    "categorias": ["Accesorios", "Fútbol"]
+  },
+  {
+    "nombre": "Jersey Local DeportivaMX",
+    "marca": "Puma",
+    "precio": 75.99,
+    "stock": 50,
+    "categorias": ["Ropa", "Fútbol"]
+  },
+  {
+    "nombre": "Mesa de Ping Pong",
+    "marca": "Stiga",
+    "precio": 350.00,
+    "stock": 5,
+    "categorias": ["Equipamiento", "Tenis de Mesa"]
+  },
+  {
+    "nombre": "Reloj Inteligente Fit Pro",
+    "marca": "Garmin",
+    "precio": 210.00,
+    "stock": 15,
+    "categorias": ["Electrónica", "Fitness"]
+  }
+]
