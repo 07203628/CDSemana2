@@ -1,0 +1,24 @@
+# 1. Bloquear todo lo que esté en esta carpeta (Semana2) hacia abajo
+/*
+
+# 2. Permitir el propio gitignore y archivos markdown principales
+!.gitignore
+!*.md
+
+# 3. Permitir carpetas y sus contenidos según el README
+!Consolidado/
+!Consolidado/**
+
+!EjerciciosComp/
+!EjerciciosComp/**
+
+!ActPracticas/
+!ActPracticas/**
+
+!Actividad2/
+!Actividad2/**
+
+# 4. Limpieza de archivos temporales de Python
+**/__pycache__/
+**/*.pyc
+.DS_Store
