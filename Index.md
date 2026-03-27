@@ -62,8 +62,8 @@ Semana2/
 - [x] Completar Ejercicios Complementarios
 - [x] Completar Actividades Prácticas
 - [x] Realizar Actividad Evaluable
-- [ ] Crear Consolidado Semanal
-- [ ] Hacer commit en Git
+- [x] Crear Consolidado Semanal
+- [x] Hacer commit en Git
 
 ---
 
